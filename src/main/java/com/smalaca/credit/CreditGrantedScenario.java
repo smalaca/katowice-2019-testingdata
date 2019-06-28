@@ -1,4 +1,4 @@
-package com.smalaca;
+package com.smalaca.credit;
 
 public class CreditGrantedScenario {
     public static final String PESEL = "12345678901";
